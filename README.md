@@ -11,4 +11,4 @@ There are 3 programs/scripts in this project
 ###Password generator- (passgen.py)-
 -I have written a program to automatically generate passwords that can be used in passCrack.py to crack the passwords.
 
-Assuming 4 worker clients, the programs primes.py and passCrack.py should be done in less than 2 minutes.
+####-Assuming 4 worker clients, the programs primes.py and passCrack.py should be done in less than 2 minutes.
