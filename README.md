@@ -1,6 +1,8 @@
 # MapReduce_mincemeatpy
 ##Utilized MapReduce to compute complex and large computations
 There are 3 programs/scripts in this project
+
+
 1) Given a text file name on the command-line containing one number per line, print out the sum, count, and standard-deviation of all the numbers in the file. All statistics should be found in one pass through the data.
 
 2) Output all the prime numbers which are palindromes between 2 and 10 million. A palindrome number is one which when read backwards is the same value. Ex. 919 is prime and a palindrome.
